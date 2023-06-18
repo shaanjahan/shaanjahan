@@ -1,4 +1,4 @@
-<h1 align="center">💻 Shaanjahan, The Data Scientist 📈</h1>
+<h1 align="center">💻 Shaanjahan, The Data Developer 📈</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Interests 🧠 :  Artificial Intelligence 🤖, Philosophy 💭, Music Production  🎹, Crypto ₿ 🔥, Probability 🎲 & Physics  🌌<br><br>Hobbies 😃: Singing 🎙, Teaching 👨🏾‍🏫, Using other keys 🎹, Movies 🎥, Reading 📖 & trying new food  😋</p>
+<p align="left">Interests 🧠 :  Artificial Intelligence 🤖,Philosophy 💭, Music Production  🎹, Crypto ₿ 🔥, Probability 🎲 & Physics  🌌<br><br>Hobbies 😃: Singing 🎙, Teaching 👨🏾‍🏫, Using other keys 🎹, Movies 🎥, Reading 📖 & trying new food  😋</p>
 
 ###
 
