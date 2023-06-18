@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">My name is Maharaj, and I'm an aspiring Data Scientist from New York City. 🗽</h2>
+<h2 align="center">My name is Maharaj, and I'm an aspiring Developer from New York City. 🗽</h2>
 
 ###
 
