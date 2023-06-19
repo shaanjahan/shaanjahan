@@ -1,4 +1,4 @@
-<h1 align="center">💻 Shaanjahan, The Developer 📈</h1>
+<h1 align="center">💻 Shaanjahan, The Data Scientist 📈</h1>
 
 ###
 
