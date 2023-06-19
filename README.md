@@ -1,4 +1,4 @@
-<h1 align="center">💻 Shaanjahan, The Data Scientist 📈</h1>
+<h1 align="center">💻 Shaanjahan, The Data Scientist of Finance & Economics 📈</h1>
 
 ###
 
@@ -6,8 +6,7 @@
 
 ###
 
-<h3 align="left">I hold a Bachelor of Science in Quantitative Economics and a Master of Science in Risk Analytics from City University of New York Queens College. I enjoy projects that includes artificial intelligence to bring the best user experience with state-of-the-art technology. I enjoy building new applications and web apps. 
-I enjoy coding 👨‍💻, watching sports 🏈 🏀🥊 🥋, and making music 🎼.</h3>
+<h3 align="left">I hold a Bachelor of Science in Quantitative Economics and a Master of Science in Risk Analytics from City University of New York Queens College. I enjoy projects that include artificial intelligence with a blend of economics and finance. I enjoy building web apps for fun and designing web pages. I would also like to see how much more artificial intelligence can change the music and arts world. I enjoy coding 👨‍💻, watching sports 🏈 🏀🥊 🥋, and making music 🎼.</h3>
 
 ###
 
