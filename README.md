@@ -1,12 +1,12 @@
 <h1 align="center">💻 Shaanjahan 📈</h1>
-<h1 align="center">💻  The Data Scientist of Finance & Economics 📈</h1>
+<h1 align="center">💻  The Python Developer 📈</h1>
 ###
 
 <h2 align="center">My name is Maharaj, and I'm an aspiring Developer from New York City. 🗽</h2>
 
 ###
 
-<h3 align="left">I hold a Bachelor of Science in Quantitative Economics and a Master of Science in Risk Analytics from City University of New York Queens College. I enjoy projects that include artificial intelligence with a blend of economics and finance. I enjoy building web apps for fun and designing web pages. I would also like to see how much more artificial intelligence can change the music and arts world. I enjoy coding 👨‍💻, watching sports 🏈 🏀🥊 🥋, and making music 🎼.</h3>
+<h3 align="left">I hold a Bachelor of Science in Quantitative Economics and a Master of Science in Risk Analytics from City University of New York Queens College. I enjoy projects that include artificial intelligence with a blend of economics and finance. The ability to make calculations easier brought me into the light of coding. Python's versatility has made it my favorite language to work with. I enjoy building web apps for fun and designing web pages. I would also like to see how much more artificial intelligence can change the music and arts world. I enjoy coding 👨‍💻, watching sports 🏈 🏀🥊 🥋, and making music 🎼.</h3>
 
 ###
 
