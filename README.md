@@ -1,5 +1,5 @@
-<h1 align="center">💻 Shaanjahan 📈</h1>
-<h1 align="center">💻  The Python Developer 📈</h1>
+<h1 align="center">📈 Shaanjahan 📈</h1>
+<h1 align="center">💻  The Python Developer 💻 </h1>
 ###
 
 <h2 align="center">My name is Maharaj, and I'm an aspiring Developer from New York City. 🗽</h2>
