@@ -1,5 +1,5 @@
-<h1 align="center">💻 Shaanjahan, The Aspiring Data Scientist with a taste for 💻</h1>
-<h1 align="center"> Financial Risk Management </h1> 
+<h1 align="center">💻 Shaanjahan, The Aspiring Data Scientist  💻</h1>
+<h1 align="center"> Economics & Financial Risk Management </h1> 
 ###
 
 <h2 align="center"> I'm Maharaj, an aspiring Data Scientist from New York City. 🗽</h2>
