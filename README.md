@@ -2,7 +2,7 @@
 <h1 align="center"> Economics & Financial Risk Management </h1> 
 ###
 
-<h2 align="center"> I'm Maharaj, an aspiring Data Scientist from New York City. 🗽</h2>
+<h2 align="center"> I'm Maharaj, an Economist from New York City🗽. Currently, I live in Washington, D.C. </h2>
 
 ###
 
