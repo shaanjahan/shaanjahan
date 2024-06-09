@@ -1,4 +1,4 @@
-<h1 align="center">💻 Shaanjahan, The Aspiring Data Scientist  💻</h1>
+<h1 align="center">💻 Shaanjahan, Economist / Data Scientist  💻</h1>
 <h1 align="center"> Economics & Financial Risk Management </h1> 
 ###
 
