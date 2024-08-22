@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I hold a Bachelor of Science in Quantitative Economics and a Master of Science in Risk Analytics from City University of New York Queens College. I enjoy projects that include artificial intelligence with a blend of economics and finance. The ability to make calculations easier brought me into the light of coding. Python's versatility has made it my favorite language to work with. I enjoy building web apps for fun and designing web pages. I would also like to see how much more artificial intelligence can change music, arts, finance, and economics. I enjoy coding 👨‍💻, watching sports 🏈 🏀🥊 🥋, and making music 🎼.</h3>
+<h3 align="left">I hold a Bachelor of Science in Quantitative Economics and a Master of Science in Risk Analytics from City University of New York Queens College. My interests lie in international economics, global affairs, and labor economics, with a particular focus on how these areas intersect with technology and artificial intelligence. I’m passionate about projects that blend AI with economic analysis and global finance, as well as examining the sociological effects of economic trends and policies. My interest in simplifying complex calculations led me to coding, and Python has become my favorite language due to its versatility. In my free time, I enjoy building web apps, designing web pages, and exploring how AI can transform music, arts, finance, and economics. I also enjoy coding 👨‍💻, watching sports 🏈 🏀🥊 🥋, and making music 🎼.</h3>
 
 ###
 
