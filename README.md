@@ -1,5 +1,5 @@
-<h1 align="center">💻 Shaanjahan, Economist / Data Scientist  💻</h1>
-<h1 align="center"> Economics & Financial Risk Management </h1> 
+<h1 align="center">💻 Shaanjahan, Economist  💻</h1>
+<h1 align="center"> International Economics / Global Affairs / Labor Economics </h1> 
 ###
 
 <h2 align="center"> I'm Maharaj, an Economist from New York City🗽. Currently, I live in Washington, D.C. </h2>
