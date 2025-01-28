@@ -6,7 +6,9 @@
 
 ###
 
-<h3 align="left">I hold a Bachelor of Science in Quantitative Economics and a Master of Science in Risk Analytics from City University of New York Queens College. My interests lie in international economics, global affairs, and labor economics, with a particular focus on how these areas intersect with technology and artificial intelligence. I’m passionate about projects that blend AI with economic analysis and global finance, as well as examining the sociological effects of economic trends and policies. My interest in simplifying complex calculations led me to coding, and Python has become my favorite language due to its versatility. In my free time, I enjoy building web apps, designing web pages, and exploring how AI can transform music, arts, finance, and economics. I also enjoy coding 👨‍💻, watching sports 🏈 🏀🥊 🥋, and making music 🎼.</h3>
+<h3 align="left">. Being a new Economist, 🎓 I hold a Bachelor of Science in Quantitative Economics and a Master of Science in Risk Analytics from City University of New York Queens College. My interests lie in 🌍 international economics, 💹 international finance, and 🌐 international political economy. I enjoy exploring how economies worldwide operate, identifying their key challenges, and analyzing how these issues affect financial markets within their respective countries. I'm particularly interested in understanding how global issues 🌎 influence U.S. financial markets 💵.
+
+I am passionate about mastering tools like Python 🐍 and R 📊 to enhance economic analysis and uncover insights in global finance. Additionally, I have a keen interest in topology 🔗 and its applications, reflecting my enthusiasm for combining mathematical frameworks with economics.</h3>
 
 ###
 
