@@ -10,8 +10,6 @@
 
 I am passionate about mastering tools like Python 🐍 and R 📊 to enhance economic analysis and uncover insights in global finance. Additionally, I have a keen interest in topology 🔗 and its applications, reflecting my enthusiasm for combining mathematical frameworks with economics.</h3>
 
-###
-
 <p align="left">Interests 🧠 :  Artificial Intelligence 🤖, Philosophy 💭, Music Production  🎹, Crypto ₿ 🔥, Probability 🎲 & Physics  🌌<br><br>Hobbies 😃: Singing 🎙, Teaching 👨🏾‍🏫, Using other keys 🎹, Movies 🎥, Reading 📖 & trying new food  😋</p>
 
 ###
