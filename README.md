@@ -6,12 +6,10 @@
 
 ###
 
-<h3 align="left">Being a new Economist, 🎓 I hold a Bachelor of Science in Quantitative Economics and a Master of Science in Risk Analytics from City University of New York Queens College. My interests lie in 🌍 international economics, 💹 international finance, and labor economics. I also have interest in mathematical and statistical techniques that can be applied to economic data.
-
-I am passionate about mastering tools like Python 🐍 and C++ programming to enhance economic analysis (Python) and algorithmic programming (C++). 
+<h3 align="left">Being a new Economist, 🎓 I hold a Bachelor of Science in Quantitative Economics and a Master of Science in Risk Analytics from City University of New York Queens College. My interests lie in 🌍 international economics, 💹 international finance, and labor economics. I also have interest in mathematical and statistical techniques that can be applied to economic data.I am passionate about mastering tools like Python 🐍 and C++ programming to enhance economic analysis (Python) and algorithmic programming (C++). 
 </h3>
 
-<p align="left">Interests 🧠 :  Artificial Intelligence 🤖, Philosophy 💭, Music Production  🎹, Crypto ₿ 🔥, Probability 🎲 & Physics  🌌<br><br>Hobbies 😃: Singing 🎙, Teaching 👨🏾‍🏫, Using other keys 🎹, Movies 🎥, Reading 📖 & trying new food  😋</p>
+<p align="left">Interests 🧠 :  Artificial Intelligence 🤖, Philosophy 💭, Music Production  🎹, Crypto ₿ & Probability 🎲 <br><br>Hobbies 😃: Singing 🎙, Teaching 👨🏾‍🏫, Using other keys 🎹, Movies 🎥, Reading 📖 & trying new food  😋</p>
 
 ###
 
