@@ -1,4 +1,4 @@
-<h1 align="center">💻 Shaanjahan, Economist  💻</h1>
+<h1 align="center">💻 L. Maharaj, Economist  💻</h1>
 <h1 align="center"> International Economics / Global Affairs / Labor Economics </h1> 
 ###
 
