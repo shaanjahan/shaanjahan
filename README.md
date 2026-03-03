@@ -1,6 +1,5 @@
 <h1 align="center">💻 L. Maharaj, Economist  💻</h1>
 <h1 align="center"> International Economics / Global Affairs / Labor Economics </h1> 
-###
 
 <h2 align="center"> I'm Maharaj, an Economist from New York City🗽. Currently, I live in Washington, D.C. </h2>
 
